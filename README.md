@@ -25,6 +25,8 @@ profiles.
   OpenTelemetry Collector and supports dozens of its components, alongside new
   components that make use of Alloy's programmable pipelines.
 
+
+
 * **Big tent**: Alloy embraces Grafana's "big tent" philosophy, where Alloy
   can be used with other vendors or open source databases. It has components
   to perfectly integrate with multiple telemetry ecosystems:
